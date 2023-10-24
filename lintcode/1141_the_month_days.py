@@ -1,4 +1,4 @@
-# link to the problem: https://www.lintcode.com/problem/1141/?fromId=192&_from=collection
+# link to the problem: https://www.lintcode.com/problem/1141/
 
 # solution: for all other months other than Feb, return the days by even or odd and their comparison to 6
 # for Feb, first judge whether it is a leap year, if yes return 29 else 28
